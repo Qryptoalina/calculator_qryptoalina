@@ -1,0 +1,5 @@
+// The program input for calculator/src/main.leo
+[main]
+public num1: field = 3field;
+public num2: field = 4field;
+public operation: u8 = 0u8;
